@@ -18,3 +18,4 @@
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 
 echo 'src-git small8 https://github.com/kenzok8/small-package' >>feeds.conf.default
+echo 'src-git openwrt_kiddin9 https://op.supes.top/packages/x86_64' >>feeds.conf.default
