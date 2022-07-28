@@ -18,4 +18,4 @@ sed -i 's/192.168.1.1/192.168.1.12/g' package/base-files/files/bin/config_genera
 sed -i 's/$1$V4UetPzk$CYXluq4wUazHjmCDBCqXF.//g' package/lean/default-settings/files/zzz-default-settings
 
 # Set default theme to luci-theme-argon
-uci set luci.main.mediaurlbase='/luci-static/argon'
+#uci set luci.main.mediaurlbase='/luci-static/argon'
